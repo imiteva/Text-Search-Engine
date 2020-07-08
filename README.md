@@ -11,3 +11,5 @@ $Requirements
 - Java 8
 - Maven
 
+The search takes the words given on the command prompt and return a list of the top 10
+(max) matching filenames in rank order, giving the rank score against each match.
